@@ -4,3 +4,6 @@ The value of a cryptocurrency, as well as an active functioning of the stock mar
  
 
 Data  : [Click here to download data](https://www.kaggle.com/code/jonathansilva2020/bitcoin-historical-data-rnn-lstm/data)
+
+
+![alt text](bitcoinpredict.png)
